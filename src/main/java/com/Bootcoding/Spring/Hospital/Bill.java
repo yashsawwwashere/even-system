@@ -1,3 +1,4 @@
+/*
 package com.Bootcoding.Spring.Hospital;
 
 import org.springframework.stereotype.Component;
@@ -8,3 +9,4 @@ public class Bill {
         System.out.println("credit ur bill here");
     }
 }
+*/
